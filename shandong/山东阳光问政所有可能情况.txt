@@ -1,0 +1,15 @@
+/html/body/div[5]/div[2]/div[1]/div[2]//div[2]/div[3]///text()
+
+
+
+/html/body/div[5]/div[2]/div[1]/div[2]/div/div[2]/div[3]/p/text()
+/html/body/div[5]/div[2]/div[1]/div[2]/div/div[2]/div[3]/p[2]/text()
+/html/body/div[5]/div[2]/div[1]/div[2]/div/div[2]/div[3]/div/text()
+/html/body/div[5]/div[2]/div[1]/div[2]/div/div[2]/div[3]/p/text()
+/html/body/div[5]/div[2]/div[1]/div[2]/div/div[2]/div[3]/p/text()
+/html/body/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[3]/p[2]/span/text()
+/html/body/div[5]/div[2]/div[1]/div[2]/div/div[2]/div[3]/p[2]/span/text()
+/html/body/div[5]/div[2]/div[1]/div[2]/div/div[2]/div[3]/p[2]/span[1]/text()
+/html/body/div[5]/div[2]/div[1]/div[2]/div/div[2]/div[3]/p[2]/span[2]/text()
+
+xpath
